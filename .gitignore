@@ -167,3 +167,6 @@ typings/
 
 # Apple Trash Files
 .DS_Store
+
+# Webpack Bundles
+assets/bundles/
