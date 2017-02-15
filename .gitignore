@@ -93,3 +93,6 @@ ENV/
 
 # Webpack bundle
 public/bundle.js
+
+# Node Modules
+node_modules
