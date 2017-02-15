@@ -1,11 +1,10 @@
 import React from 'react';
-import MapContainer from './MapContainer';
 
 class App extends React.Component {
   render() {
     return (
       <div>
-        <MapContainer />
+        <h1>Test</h1>
       </div>
     );
   }

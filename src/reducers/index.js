@@ -1,12 +1,18 @@
 import { combineReducers } from 'redux';
-import ActiveLocation from './reducer_active_location';
-import AddedLocation from './reducer_added_location';
-import LocationList from './reducer_location_list';
+
+// Remember to import all reducers, this is an example.
+// ====================
+// import TestReducer from './reducer_template'
+// ====================
+
 
 const rootReducer = combineReducers({
-  activeLocation: ActiveLocation,
-  addedLocation: AddedLocation,
-  locationList: LocationList
+  
+  // Remember to add reducers here, this is an example.
+  // ====================
+  // testReducer: TestReducer
+  // ====================
+
 });
 
 export default rootReducer;

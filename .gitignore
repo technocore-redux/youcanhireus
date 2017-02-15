@@ -90,3 +90,6 @@ ENV/
 
 # Apple Trash Files
 .DS_Store
+
+# Webpack bundle
+public/bundle.js
