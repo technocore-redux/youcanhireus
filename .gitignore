@@ -93,4 +93,3 @@ ENV/
 
 # Webpack bundle
 public/bundle.js
-public/bundle.js.map

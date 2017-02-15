@@ -1,6 +1,10 @@
-export function locationSelected(location) {
-  return {
-    type: 'LOCATION_SELECTED',
-    payload: location
-  };
-}
+// ====================
+// Example action template
+// ====================
+
+// export function locationSelected(location) {
+//   return {
+//     type: 'LOCATION_SELECTED',
+//     payload: location
+//   };
+// }
