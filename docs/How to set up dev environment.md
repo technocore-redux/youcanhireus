@@ -16,7 +16,7 @@ If you are a MacOS user, this should be true by default.
     - If you don't pip installed, run "sudo easy_install pip"
     - Install virtualenv: "sudo pip install virtualenv"
     - In your repo folder, create a "venv" directory
-    - Run: "virtualenv venv --python=python2.7"
+    - Run: "virtualenv venv --python=python3"
     - After installation has run, activate your virtual environment
       by running: "source venv/bin/activate" (later, you can run "deactivate"
       to disable the virtual environment)
